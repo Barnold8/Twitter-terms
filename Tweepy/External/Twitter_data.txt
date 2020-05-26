@@ -1,0 +1,39 @@
+                                        The following data is more technical information about the tweet
+
+This tweet was created at: Thu May 14 15:32:57 +0000 2020
+
+ This user's twitter ID is: 1260956272184229891
+
+ The source of the tweet is: <a href="http://publicize.wp.com/" rel="nofollow">WordPress.com</a>. It is very possible that the link work on non mobile devices
+
+ The user's location The users location is Faridabad
+
+Nobody was mentioned in this tweet
+
+The links included in this tweet are : [{'url': 'https://t.co/r4wHNyhy9N', 'expanded_url': 'https://gofirstnews.com/productivity-profile-how-tech-founder-jim-morrison-gets-things-done/', 'display_url': 'gofirstnews.com/productivity-p…', 'indices': [69, 92]}]
+
+                                      The following data is about the user
+
+The person who tweeted is: GoFirstNews
+
+Their screen name is GoFirstNews1
+
+GoFirstNews is not verified!
+
+GoFirstNews's follow count is: 6
+
+GoFirstNews's is following 673 people
+
+GoFirstNews has liked 50 tweets
+
+GoFirstNews has posted 1001 tweets
+
+The users profile picture can be found here  >>>   http://pbs.twimg.com/profile_images/1260819468701204480/8kvE0OP1_normal.jpg   <<<
+
+No background image was found for this profile
+
+The users profile picture can be found here >>>   http://pbs.twimg.com/profile_images/1260819468701204480/8kvE0OP1_normal.jpg   <<<
+
+
+
+GoFirstNews joined twitter at: Mon May 04 05:30:39 +0000 2020
